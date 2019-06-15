@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1489677237 source:c:\users\berkay\desktop\codeblocks\proje1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1489699640 source:c:\users\berkay\desktop\proje1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1489699640 source:c:\users\berkay\desktop\proje1\proje1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1489699640 source:c:\users\berkay\desktop\yeni klasör (3)\proje1\proje1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
